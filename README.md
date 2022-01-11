@@ -10,16 +10,19 @@ And use Rich for a colorized terminal output and SQLite for the database.
 ```python
 python todo.py show
 ```
+![Image text](images/first_step.png)
 
 #### 2. You could add 1 item, the status of Done is 'Not Done'
 ```python
 python todo.py add "Todo-1" "Sports"
 ```
+![Image text](images/second_step.png)
 
 #### 3. You could edit the status of Done, make it 'Finish'
 ```python
 python todo.py complete 1
 ```
+![image text](images/third_step.png)
 
 #### 4. You could add 1 item and delete this item
 ```python
